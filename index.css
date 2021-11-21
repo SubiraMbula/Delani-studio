@@ -13,7 +13,10 @@
 }
 .services{
     background-image: url("/photos/s_image.jpg");
-    padding: 10%;
+    padding: 8%;
     text-align: center;
     color: white;
+}
+.what-we-do{
+    display: flex;
 }

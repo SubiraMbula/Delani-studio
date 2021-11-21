@@ -20,3 +20,10 @@
 .what-we-do{
     display: flex;
 }
+.container-fluid-contact{
+    background-image: url("/photos/c_image.jpg");
+    padding: 12%;
+}
+footer{
+    text-align: center;
+}

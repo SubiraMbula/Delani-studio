@@ -93,6 +93,9 @@
    padding-bottom: 20px;
    font-family: serif;
  }
+ ::placeholder{
+     color: white;
+ }
  input[type=text],input[type=email],#comment{
    background: transparent;
    color: white;

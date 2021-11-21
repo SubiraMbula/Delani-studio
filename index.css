@@ -1,6 +1,6 @@
 
  .home {
-    background-image: url('../images/backgrounds/home_img.jpg');
+    background-image: url('./photos/h_img.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -28,15 +28,15 @@
  }
  .about {
    text-align: center;
-   padding-bottom: 30px;
-   padding-top:40px;
+   padding: 5%;
    font-family: serif;
  }
  .services {
    text-align: center;
-   background-image: url('../images/backgrounds/s_image.jpg');
+   background-image: url('./photos/s_image.jpg');
    background-size: cover;
    background-repeat: no-repeat;
+   padding: 6%;
    color: white;
    font-family: serif;
    font-size: 18px;
@@ -78,14 +78,13 @@
    max-height: 100%;
  }
  .contact {
-   background-image: url("./photos/c_image.jpg");
-    background-size: cover;
-   background-repeat: no-repeat;
+     background-image: url("./photos/c_image.jpg");
    color: white;
    padding: 4%;
  }
  .title{
    padding: 6px;
+   text-align: center;
  }
  .contact h2{
    text-align: center;
